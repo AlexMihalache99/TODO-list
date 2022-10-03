@@ -18,3 +18,7 @@ You can find the web app here at [TODO list](https://pure-bayou-33672.herokuapp.
 - Database using MongoDB
 - Monitorize data using Mongo Atlas
 - Deployed using Heroku
+
+<hr>
+
+If you like this project, please consider giving it a star⭐! Would help me a lot!
